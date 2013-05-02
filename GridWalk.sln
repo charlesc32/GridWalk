@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWalk", "GridWalk\GridWalk.csproj", "{098B86D8-B133-4109-90F7-CD83BCE02C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridWalkTests", "GridWalkTests\GridWalkTests.csproj", "{D63B1BD6-36B7-43A5-8F0A-667FD5B0A8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098B86D8-B133-4109-90F7-CD83BCE02C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098B86D8-B133-4109-90F7-CD83BCE02C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098B86D8-B133-4109-90F7-CD83BCE02C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098B86D8-B133-4109-90F7-CD83BCE02C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63B1BD6-36B7-43A5-8F0A-667FD5B0A8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63B1BD6-36B7-43A5-8F0A-667FD5B0A8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63B1BD6-36B7-43A5-8F0A-667FD5B0A8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63B1BD6-36B7-43A5-8F0A-667FD5B0A8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
